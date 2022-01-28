@@ -2,6 +2,6 @@
 
 <img src="https://i.imgur.com/hkFmJcO.png" />
 
-- 🔨 I’m currently working on [ProcFlo](https://procflo.com)
-- 📘 I’m currently learning React Native
+- 💼 I’m currently open to job opportunities
+- 📘 I’m currently learning TypeScript & Next.js
 - 💬 Ask me about JavaScript
