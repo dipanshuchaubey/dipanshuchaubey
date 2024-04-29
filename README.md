@@ -2,5 +2,5 @@
 
 <img src="https://i.imgur.com/hkFmJcO.png" />
 
-- 📘 I’m currently learning TypeScript & Next.js
+- 📘 I’m currently learning Golang & Kubernetes
 - 💬 Ask me about JavaScript
